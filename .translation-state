@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "6ebae9720c6c428bbe588c8adf0bd086b5e9ce56",
-  "LastTranslatedCommit": "c4fb2ed376565be02b60c6b4efc4edac472d262f",
+  "LastTranslatedCommit": "a56796f1002bf3d249aed1718ac5b7c348566cb1",
   "LastTansformerVersion": "1.0-419b0d8",
   "LastConfigHash": "0e2c9c5b9f1071fdcfc5063cb44589cb05c9569f",
   "Items": {
@@ -110,7 +110,13 @@
       "HandoffFileCommit": "2ab1004894ee221d079673d9db682731fd23d6cd",
       "HandoffDateTime": "2018-12-10T08:20:44.0531489Z",
       "HandoffXliffHash": "327f62bd1f72c16c16e7ba43ab28b057dc2f8300",
-      "HandoffPriority": "ht"
+      "HandoffPriority": "ht",
+      "TargetFileCommit": "a56796f1002bf3d249aed1718ac5b7c348566cb1",
+      "TargetFilePath": "e2e\\13cc7e6b-d634-4c77-ba22-3ebd41abcfde.md",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationTestOrg\\ol-test3-zhcn\\ci\\ht\\13cc7e6b-d634-4c77-ba22-3ebd41abcfde.505a84d2c3231970c635a679c1843aa198c61c84.zh-cn.xlf",
+      "HandbackFileCommit": "9a30830773dea21356010eae315b6a3ac75e7447",
+      "HandbackDateTime": "2018-12-10T08:22:29.7943664Z",
+      "UpdatedDateTime": "2018-12-10T08:22:29.7943664Z"
     },
     "b4ed545f458e7f1dc6cf929eb18388c549bba5e3": {
       "FileHash": "b4ed545f458e7f1dc6cf929eb18388c549bba5e3",
@@ -125,7 +131,13 @@
       "HandoffFileCommit": "2ab1004894ee221d079673d9db682731fd23d6cd",
       "HandoffDateTime": "2018-12-10T08:20:44.0531489Z",
       "HandoffXliffHash": "5756a7f8e758f2e127a63ea027eba6b346cf8a7a",
-      "HandoffPriority": "ht"
+      "HandoffPriority": "ht",
+      "TargetFileCommit": "a56796f1002bf3d249aed1718ac5b7c348566cb1",
+      "TargetFilePath": "e2e\\866ffe3f-d029-4228-984f-3c377e2aa15a.md",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationTestOrg\\ol-test3-zhcn\\ci\\ht\\866ffe3f-d029-4228-984f-3c377e2aa15a.7b066d42b01f5494b3edd139559159bf60b091fe.zh-cn.xlf",
+      "HandbackFileCommit": "9a30830773dea21356010eae315b6a3ac75e7447",
+      "HandbackDateTime": "2018-12-10T08:22:29.7943664Z",
+      "UpdatedDateTime": "2018-12-10T08:22:29.7943664Z"
     }
   }
 }
