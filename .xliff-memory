@@ -1,0 +1,16 @@
+{
+  "Table": {
+    "e2e\\030f93b7-09f2-4dfe-84f7-7d7923040015.md.d1fbbdbcbe595be196c4c88a2947bbc3537eeee3.HT": {
+      "SourceFilename": "e2e\\030f93b7-09f2-4dfe-84f7-7d7923040015.md",
+      "XliffHash": "d1fbbdbcbe595be196c4c88a2947bbc3537eeee3",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test3-zhcn\\ci\\f9b676754e64cd5a7969ec63d71dc2af0df14beb.95413850c0f4f68547d485062746a9dbd5d0fc9e.xml"
+    },
+    "e2e\\7c6bfad0-ff7f-4b36-95af-e73d5d3cabd5.md.d66c73f5d68dc181a511d44364b92f31ca747444.HT": {
+      "SourceFilename": "e2e\\7c6bfad0-ff7f-4b36-95af-e73d5d3cabd5.md",
+      "XliffHash": "d66c73f5d68dc181a511d44364b92f31ca747444",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test3-zhcn\\ci\\60887e679f5546497d6c1098ba70fd18033c4ad4.f94610e7532bd90d3a024199b7a9db3bc6b6682e.xml"
+    }
+  }
+}
