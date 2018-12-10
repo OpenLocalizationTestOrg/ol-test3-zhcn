@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "6016b665660057a384d0f82643e703b903fcd310",
-  "LastTranslatedCommit": "a56796f1002bf3d249aed1718ac5b7c348566cb1",
+  "LastTranslatedCommit": "10469b40836e4c4fd354c8cf47daa090cbe3cba4",
   "LastTansformerVersion": "1.0-419b0d8",
   "LastConfigHash": "607b72586a5f3a4a1547d11816429fcaba0e532e",
   "Items": {
@@ -111,12 +111,12 @@
       "HandoffDateTime": "2018-12-10T08:24:35.177223Z",
       "HandoffXliffHash": "327f62bd1f72c16c16e7ba43ab28b057dc2f8300",
       "HandoffPriority": "mt",
-      "TargetFileCommit": "a56796f1002bf3d249aed1718ac5b7c348566cb1",
+      "TargetFileCommit": "10469b40836e4c4fd354c8cf47daa090cbe3cba4",
       "TargetFilePath": "e2e\\13cc7e6b-d634-4c77-ba22-3ebd41abcfde.md",
-      "HandbackFilePath": "ol-handback\\OpenLocalizationTestOrg\\ol-test3-zhcn\\ci\\ht\\13cc7e6b-d634-4c77-ba22-3ebd41abcfde.505a84d2c3231970c635a679c1843aa198c61c84.zh-cn.xlf",
-      "HandbackFileCommit": "9a30830773dea21356010eae315b6a3ac75e7447",
-      "HandbackDateTime": "2018-12-10T08:22:29.7943664Z",
-      "UpdatedDateTime": "2018-12-10T08:22:29.7943664Z"
+      "HandbackFilePath": "ol-handback\\OpenLocalizationTestOrg\\ol-test3-zhcn\\ci\\mt\\13cc7e6b-d634-4c77-ba22-3ebd41abcfde.505a84d2c3231970c635a679c1843aa198c61c84.zh-cn.xlf",
+      "HandbackFileCommit": "4d7dd540fcb40eb278b7b919636794a27ef28426",
+      "HandbackDateTime": "2018-12-10T08:26:16.5431132Z",
+      "UpdatedDateTime": "2018-12-10T08:26:16.5431132Z"
     },
     "b4ed545f458e7f1dc6cf929eb18388c549bba5e3": {
       "FileHash": "b4ed545f458e7f1dc6cf929eb18388c549bba5e3",
@@ -152,7 +152,13 @@
       "HandoffFileCommit": "fb2b36544e04fe69fb5d257d981f1772a8685438",
       "HandoffDateTime": "2018-12-10T08:24:35.177223Z",
       "HandoffXliffHash": "82565e0469fcd6000b8141e05d4a1222ae155cad",
-      "HandoffPriority": "mt"
+      "HandoffPriority": "mt",
+      "TargetFileCommit": "10469b40836e4c4fd354c8cf47daa090cbe3cba4",
+      "TargetFilePath": "e2e\\866ffe3f-d029-4228-984f-3c377e2aa15a.md",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationTestOrg\\ol-test3-zhcn\\ci\\mt\\866ffe3f-d029-4228-984f-3c377e2aa15a.7b066d42b01f5494b3edd139559159bf60b091fe.zh-cn.xlf",
+      "HandbackFileCommit": "4d7dd540fcb40eb278b7b919636794a27ef28426",
+      "HandbackDateTime": "2018-12-10T08:26:16.5431132Z",
+      "UpdatedDateTime": "2018-12-10T08:26:16.5431132Z"
     }
   }
 }
