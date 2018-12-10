@@ -15,6 +15,12 @@
       "IsArchived": true,
       "ArchivedDateTime": "2018-12-10T08:13:34.2724351Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test3-zhcn\\ci\\60887e679f5546497d6c1098ba70fd18033c4ad4.f94610e7532bd90d3a024199b7a9db3bc6b6682e.xml"
+    },
+    "e2e\\7c6bfad0-ff7f-4b36-95af-e73d5d3cabd5.md.fa94045608a5b0365468564deea48ded0836f2b9.MT": {
+      "SourceFilename": "e2e\\7c6bfad0-ff7f-4b36-95af-e73d5d3cabd5.md",
+      "XliffHash": "fa94045608a5b0365468564deea48ded0836f2b9",
+      "TranslationType": 2,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test3-zhcn\\ci\\0e993bb0f57e63d8099752681e87dbd6bb7fecce.14f580476e76af9ce295f63196164883c78bd288.xml"
     }
   }
 }
