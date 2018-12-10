@@ -59,6 +59,30 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test3-zhcn\\ci\\cd67863b4aefeebc87f9ab4929572fa239b5adc9.cea2cb0dcb27b8a9f9230c322d39509cf3119278.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test3-zhcn\\ci\\ht\\13cc7e6b-d634-4c77-ba22-3ebd41abcfde.505a84d2c3231970c635a679c1843aa198c61c84.zh-cn.xlf",
       "LocXliffCommit": "9a30830773dea21356010eae315b6a3ac75e7447"
+    },
+    "e2e\\866ffe3f-d029-4228-984f-3c377e2aa15a.md.82565e0469fcd6000b8141e05d4a1222ae155cad.MT": {
+      "SourceFilename": "e2e\\866ffe3f-d029-4228-984f-3c377e2aa15a.md",
+      "XliffHash": "82565e0469fcd6000b8141e05d4a1222ae155cad",
+      "TranslationType": 2,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test3-zhcn\\ci\\3efcadf504bb2fc768898acf92d148dc954dbc4e.51ea1c43c3c5f86ab30184481ccffd4523941039.xml"
+    },
+    "e2e\\e290e99c-711c-4e39-97d5-4f610b32bf41.md.5bd627c95b7a4c3cafebf9e4e4d3af4edb487ed8.MT": {
+      "SourceFilename": "e2e\\e290e99c-711c-4e39-97d5-4f610b32bf41.md",
+      "XliffHash": "5bd627c95b7a4c3cafebf9e4e4d3af4edb487ed8",
+      "TranslationType": 2,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test3-zhcn\\ci\\9d693ddd741f6b321fc0c1c8d8c95e42b2dd2c87.a6422c08e43e890134c6ab239281ced6de047fcc.xml"
+    },
+    "e2e\\5d650f3b-aad8-4966-9709-078e9047b563.md.728343d5da924be1eaaf572267d87ba4770942ce.MT": {
+      "SourceFilename": "e2e\\5d650f3b-aad8-4966-9709-078e9047b563.md",
+      "XliffHash": "728343d5da924be1eaaf572267d87ba4770942ce",
+      "TranslationType": 2,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test3-zhcn\\ci\\d33d182f5a0832ac4d67e30fd6a837fde8267363.16fc226a7b6f7a175de98d1ce2ee044d7f7c9b26.xml"
+    },
+    "e2e\\13cc7e6b-d634-4c77-ba22-3ebd41abcfde.md.327f62bd1f72c16c16e7ba43ab28b057dc2f8300.MT": {
+      "SourceFilename": "e2e\\13cc7e6b-d634-4c77-ba22-3ebd41abcfde.md",
+      "XliffHash": "327f62bd1f72c16c16e7ba43ab28b057dc2f8300",
+      "TranslationType": 2,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test3-zhcn\\ci\\cd67863b4aefeebc87f9ab4929572fa239b5adc9.cea2cb0dcb27b8a9f9230c322d39509cf3119278.xml"
     }
   }
 }
